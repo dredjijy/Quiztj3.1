@@ -1,0 +1,882 @@
+[
+  {
+    "text": "Complétez : « Le fruit de l’esprit, c’est l’amour, la joie… »",
+    "correct": "Galates 5:22",
+    "incorrect": [
+      "1 Corinthiens 13:4",
+      "Romains 15:13"
+    ]
+  },
+  {
+    "text": "Complétez : « Si Dieu est pour nous, qui sera contre nous ? »",
+    "correct": "Romains 8:31",
+    "incorrect": [
+      "Psaume 27:1",
+      "Romains 5:8"
+    ]
+  },
+  {
+    "text": "Complétez : « Le salaire du péché, c’est la mort… »",
+    "correct": "Romains 6:23",
+    "incorrect": [
+      "Romains 3:23",
+      "Jean 3:36"
+    ]
+  },
+  {
+    "text": "Complétez : « L’homme bon tire le bien du bon trésor… »",
+    "correct": "Luc 6:45",
+    "incorrect": [
+      "Matthieu 12:35",
+      "Marc 7:21"
+    ]
+  },
+  {
+    "text": "Complétez : « Veillez et priez, pour ne pas entrer en tentation… »",
+    "correct": "Matthieu 26:41",
+    "incorrect": [
+      "Marc 14:38",
+      "Luc 22:40"
+    ]
+  },
+  {
+    "text": "Complétez : « Car nous n’avons pas ici-bas de cité permanente… »",
+    "correct": "Hébreux 13:14",
+    "incorrect": [
+      "Philippiens 3:20",
+      "Jean 14:2"
+    ]
+  },
+  {
+    "text": "Complétez : « Tu n’auras pas d’autres dieux devant moi. »",
+    "correct": "Exode 20:3",
+    "incorrect": [
+      "Exode 20:5",
+      "Exode 19:4"
+    ]
+  },
+  {
+    "text": "Complétez : « J’ai gardé la foi. »",
+    "correct": "2 Timothée 4:7",
+    "incorrect": [
+      "Hébreux 11:1",
+      "Jacques 2:14"
+    ]
+  },
+  {
+    "text": "Complétez : « Marchez par l’esprit… »",
+    "correct": "Galates 5:16",
+    "incorrect": [
+      "Galates 5:25",
+      "Romains 8:1"
+    ]
+  },
+  {
+    "text": "Complétez : « Il y a plus de bonheur à donner qu’à recevoir. »",
+    "correct": "Actes 20:35",
+    "incorrect": [
+      "Luc 6:38",
+      "2 Corinthiens 9:7"
+    ]
+  },
+  {
+    "text": "Complétez : « Heureux ceux qui pleurent, car ils seront consolés. »",
+    "correct": "Matthieu 5:4",
+    "incorrect": [
+      "Luc 6:21",
+      "Jean 16:20"
+    ]
+  },
+  {
+    "text": "Complétez : « Ta parole est une lampe à mon pied… »",
+    "correct": "Psaume 119:105",
+    "incorrect": [
+      "Psaume 19:8",
+      "Proverbes 6:23"
+    ]
+  },
+  {
+    "text": "Complétez : « Soyez sobres, veillez. »",
+    "correct": "1 Pierre 5:8",
+    "incorrect": [
+      "1 Thessaloniciens 5:6",
+      "Matthieu 26:41"
+    ]
+  },
+  {
+    "text": "Complétez : « Ne vous laissez pas vaincre par le mal… »",
+    "correct": "Romains 12:21",
+    "incorrect": [
+      "Jacques 4:7",
+      "1 Pierre 3:9"
+    ]
+  },
+  {
+    "text": "Complétez : « Aimez vos ennemis… »",
+    "correct": "Matthieu 5:44",
+    "incorrect": [
+      "Luc 6:27",
+      "Jean 13:34"
+    ]
+  },
+  {
+    "text": "Complétez : « Le cœur joyeux rend le visage serein… »",
+    "correct": "Proverbes 15:13",
+    "incorrect": [
+      "Proverbes 17:22",
+      "Ecclésiaste 8:1"
+    ]
+  },
+  {
+    "text": "Complétez : « Ne vous inquiétez de rien… »",
+    "correct": "Philippiens 4:6",
+    "incorrect": [
+      "Matthieu 6:25",
+      "1 Pierre 5:7"
+    ]
+  },
+  {
+    "text": "Complétez : « Heureux ceux qui gardent ses témoignages… »",
+    "correct": "Psaume 119:2",
+    "incorrect": [
+      "Psaume 1:2",
+      "Psaume 19:8"
+    ]
+  },
+  {
+    "text": "Complétez : « Un cœur joyeux est un bon remède. »",
+    "correct": "Proverbes 17:22",
+    "incorrect": [
+      "Psaume 126:2",
+      "Philippiens 4:4"
+    ]
+  },
+  {
+    "text": "Complétez : « Ne t’appuie pas sur ton intelligence… »",
+    "correct": "Proverbes 3:5",
+    "incorrect": [
+      "Proverbes 14:12",
+      "Proverbes 16:25"
+    ]
+  },
+  {
+    "text": "Complétez : « Soyez toujours prêts à défendre votre espérance… »",
+    "correct": "1 Pierre 3:15",
+    "incorrect": [
+      "2 Timothée 2:15",
+      "Tite 2:7"
+    ]
+  },
+  {
+    "text": "Complétez : « L’amour couvre une multitude de péchés. »",
+    "correct": "1 Pierre 4:8",
+    "incorrect": [
+      "Jacques 5:20",
+      "Proverbes 10:12"
+    ]
+  },
+  {
+    "text": "Complétez : « Éloigne-toi du mal, et fais le bien… »",
+    "correct": "Psaume 34:14",
+    "incorrect": [
+      "Psaume 37:3",
+      "Proverbes 4:27"
+    ]
+  },
+  {
+    "text": "Complétez : « Il a tant aimé le monde… »",
+    "correct": "Jean 3:16",
+    "incorrect": [
+      "Jean 3:17",
+      "Jean 4:16"
+    ]
+  },
+  {
+    "text": "Complétez : « Ne vous appuyez pas sur votre propre intelligence. »",
+    "correct": "Proverbes 3:5",
+    "incorrect": [
+      "Proverbes 4:7",
+      "Proverbes 14:12"
+    ]
+  },
+  {
+    "text": "Complétez : « Souviens‑toi du jour du sabbat… »",
+    "correct": "Exode 20:8",
+    "incorrect": [
+      "Exode 20:10",
+      "Exode 21:2"
+    ]
+  },
+  {
+    "text": "Complétez : « J’ai combattu le beau combat… »",
+    "correct": "2 Timothée 4:7",
+    "incorrect": [
+      "1 Timothée 4:7",
+      "Tite 1:7"
+    ]
+  },
+  {
+    "text": "Complétez : « Ne t’irrite pas à cause des méchants… »",
+    "correct": "Psaume 37:1",
+    "incorrect": [
+      "Psaume 73:3",
+      "Proverbes 24:19"
+    ]
+  },
+  {
+    "text": "Complétez : « Demandez, et l’on vous donnera… »",
+    "correct": "Matthieu 7:7",
+    "incorrect": [
+      "Luc 11:9",
+      "Jean 14:13"
+    ]
+  },
+  {
+    "text": "Complétez : « Entrez par la porte étroite… »",
+    "correct": "Matthieu 7:13",
+    "incorrect": [
+      "Luc 13:24",
+      "Jean 10:9"
+    ]
+  },
+  {
+    "text": "Complétez : « Dieu est pour nous un refuge et une force… »",
+    "correct": "Psaume 46:1",
+    "incorrect": [
+      "Psaume 18:2",
+      "Nahum 1:7"
+    ]
+  },
+  {
+    "text": "Complétez : « Chantez à Jéhovah un cantique nouveau… »",
+    "correct": "Psaume 96:1",
+    "incorrect": [
+      "Psaume 98:1",
+      "Psaume 33:3"
+    ]
+  },
+  {
+    "text": "Complétez : « Le Seigneur discipline celui qu’il aime. »",
+    "correct": "Hébreux 12:6",
+    "incorrect": [
+      "Proverbes 3:12",
+      "Job 5:17"
+    ]
+  },
+  {
+    "text": "Complétez : « La prière du juste a une grande efficacité. »",
+    "correct": "Jacques 5:16",
+    "incorrect": [
+      "Psaume 145:18",
+      "1 Jean 5:14"
+    ]
+  },
+  {
+    "text": "Complétez : « L’âme généreuse sera comblée… »",
+    "correct": "Proverbes 11:25",
+    "incorrect": [
+      "Luc 6:38",
+      "2 Corinthiens 9:7"
+    ]
+  },
+  {
+    "text": "Complétez : « Que tout soit fait avec amour. »",
+    "correct": "1 Corinthiens 16:14",
+    "incorrect": [
+      "Galates 5:6",
+      "Éphésiens 4:2"
+    ]
+  },
+  {
+    "text": "Complétez : « Il guérit ceux qui ont le cœur brisé. »",
+    "correct": "Psaume 147:3",
+    "incorrect": [
+      "Psaume 23:4",
+      "Proverbes 4:23"
+    ]
+  },
+  {
+    "text": "Complétez : « Heureux celui qui ne trouve en moi raison de trébucher. »",
+    "correct": "Matthieu 11:6",
+    "incorrect": [
+      "Matthieu 11:7",
+      "Luc 7:6"
+    ]
+  },
+  {
+    "text": "Complétez : « Ayez foi en Dieu. »",
+    "correct": "Marc 11:22",
+    "incorrect": [
+      "Hébreux 11:6",
+      "Jean 14:1"
+    ]
+  },
+  {
+    "text": "Complétez : « Celui qui est en vous est plus grand que celui qui est dans le monde. »",
+    "correct": "1 Jean 4:4",
+    "incorrect": [
+      "Jean 16:33",
+      "Romains 8:31"
+    ]
+  },
+  {
+    "text": "Complétez : « Car là où est ton trésor… »",
+    "correct": "Matthieu 6:21",
+    "incorrect": [
+      "Luc 12:34",
+      "Matthieu 5:16"
+    ]
+  },
+  {
+    "text": "Complétez : « Car il a fixé un jour où il va juger le monde… »",
+    "correct": "Actes 17:31",
+    "incorrect": [
+      "Jean 5:22",
+      "Romains 2:5"
+    ]
+  },
+  {
+    "text": "Complétez : « Approchez-vous de Dieu, et il s’approchera de vous. »",
+    "correct": "Jacques 4:8",
+    "incorrect": [
+      "Hébreux 10:22",
+      "Psaume 73:28"
+    ]
+  },
+  {
+    "text": "Complétez : « Car ton amour est meilleur que la vie. »",
+    "correct": "Psaume 63:3",
+    "incorrect": [
+      "Psaume 36:7",
+      "Psaume 103:17"
+    ]
+  },
+  {
+    "text": "Complétez : « Soyez transformés par le renouvellement de l’intelligence… »",
+    "correct": "Romains 12:2",
+    "incorrect": [
+      "Éphésiens 4:23",
+      "Colossiens 3:10"
+    ]
+  },
+  {
+    "text": "Complétez : « Dieu créa l’homme à son image… »",
+    "correct": "Genèse 1:27",
+    "incorrect": [
+      "Genèse 2:7",
+      "Genèse 1:14"
+    ]
+  },
+  {
+    "text": "Complétez : « Voici, je fais toutes choses nouvelles. »",
+    "correct": "Révélation 21:5",
+    "incorrect": [
+      "2 Corinthiens 5:17",
+      "Ésaïe 43:19"
+    ]
+  },
+  {
+    "text": "Complétez : « Celui qui sème peu moissonnera peu… »",
+    "correct": "2 Corinthiens 9:6",
+    "incorrect": [
+      "Galates 6:7",
+      "Luc 6:38"
+    ]
+  },
+  {
+    "text": "Complétez : « Prenez sur vous mon joug et apprenez de moi… »",
+    "correct": "Matthieu 11:29",
+    "incorrect": [
+      "Matthieu 10:10",
+      "Matthieu 12:1"
+    ]
+  },
+  {
+    "text": "Complétez : « Dieu est amour. »",
+    "correct": "1 Jean 4:8",
+    "incorrect": [
+      "Jean 4:8",
+      "1 Jean 3:8"
+    ]
+  },
+  {
+    "text": "Complétez : « Mettez en pratique la parole, et ne vous bornez pas à l’écouter. »",
+    "correct": "Jacques 1:22",
+    "incorrect": [
+      "Matthieu 7:24",
+      "Luc 8:21"
+    ]
+  },
+  {
+    "text": "Complétez : « Il est la lumière du monde. »",
+    "correct": "Jean 8:12",
+    "incorrect": [
+      "Jean 8:11",
+      "Jean 7:12"
+    ]
+  },
+  {
+    "text": "Complétez : « Je suis le chemin, la vérité et la vie. »",
+    "correct": "Jean 14:6",
+    "incorrect": [
+      "Jean 14:5",
+      "Jean 14:7"
+    ]
+  },
+  {
+    "text": "Complétez : « Car Dieu n’est pas un Dieu de désordre, mais de paix. »",
+    "correct": "1 Corinthiens 14:33",
+    "incorrect": [
+      "2 Corinthiens 13:11",
+      "Philippiens 4:9"
+    ]
+  },
+  {
+    "text": "Complétez : « Il guérit ceux qui ont le cœur brisé… »",
+    "correct": "Psaume 147:3",
+    "incorrect": [
+      "Psaume 34:18",
+      "Ésaïe 61:1"
+    ]
+  },
+  {
+    "text": "Complétez : « Aime ton prochain comme toi-même. »",
+    "correct": "Matthieu 22:39",
+    "incorrect": [
+      "Marc 12:31",
+      "Galates 5:14"
+    ]
+  },
+  {
+    "text": "Complétez : « L’homme regarde à ce qui frappe les yeux… »",
+    "correct": "1 Samuel 16:7",
+    "incorrect": [
+      "2 Samuel 22:28",
+      "Proverbes 21:2"
+    ]
+  },
+  {
+    "text": "Complétez : « La douceur des lèvres augmente l’instruction. »",
+    "correct": "Proverbes 16:21",
+    "incorrect": [
+      "Proverbes 15:1",
+      "Ecclésiaste 10:12"
+    ]
+  },
+  {
+    "text": "Complétez : « La foi est l’attente assurée… »",
+    "correct": "Hébreux 11:1",
+    "incorrect": [
+      "Hébreux 10:1",
+      "1 Pierre 1:1"
+    ]
+  },
+  {
+    "text": "Complétez : « Ne vous lassez pas de faire le bien… »",
+    "correct": "Galates 6:9",
+    "incorrect": [
+      "2 Thessaloniciens 3:13",
+      "Romains 2:7"
+    ]
+  },
+  {
+    "text": "Complétez : « Il essuiera toute larme… »",
+    "correct": "Révélation 21:4",
+    "incorrect": [
+      "Révélation 22:1",
+      "Révélation 20:4"
+    ]
+  },
+  {
+    "text": "Complétez : « Cherchez Jéhovah pendant qu’il peut être trouvé… »",
+    "correct": "Isaïe 55:6",
+    "incorrect": [
+      "Psaume 105:4",
+      "Matthieu 7:7"
+    ]
+  },
+  {
+    "text": "Complétez : « Recherchez d’abord le Royaume… »",
+    "correct": "Matthieu 6:33",
+    "incorrect": [
+      "Matthieu 7:7",
+      "Luc 12:31"
+    ]
+  },
+  {
+    "text": "Complétez : « Que tout ce qui respire loue Jéhovah. »",
+    "correct": "Psaume 150:6",
+    "incorrect": [
+      "Psaume 148:13",
+      "Psaume 100:1"
+    ]
+  },
+  {
+    "text": "Complétez : « Ne rends pas le mal pour le mal… »",
+    "correct": "1 Pierre 3:9",
+    "incorrect": [
+      "Romains 12:17",
+      "Matthieu 5:39"
+    ]
+  },
+  {
+    "text": "Complétez : « L’homme ne vivra pas de pain seulement… »",
+    "correct": "Matthieu 4:4",
+    "incorrect": [
+      "Luc 4:4",
+      "Deutéronome 8:3"
+    ]
+  },
+  {
+    "text": "Complétez : « Moïse monta vers Dieu… »",
+    "correct": "Exode 19:3",
+    "incorrect": [
+      "Exode 20:1",
+      "Exode 21:5"
+    ]
+  },
+  {
+    "text": "Complétez : « Le ciel et la terre passeront, mais mes paroles ne passeront jamais. »",
+    "correct": "Matthieu 24:35",
+    "incorrect": [
+      "Luc 21:33",
+      "Marc 13:31"
+    ]
+  },
+  {
+    "text": "Complétez : « Celui qui s’élève sera abaissé… »",
+    "correct": "Matthieu 23:12",
+    "incorrect": [
+      "Luc 14:11",
+      "Jacques 4:10"
+    ]
+  },
+  {
+    "text": "Complétez : « Heureux les cœurs purs, car ils verront Dieu. »",
+    "correct": "Matthieu 5:8",
+    "incorrect": [
+      "Luc 11:28",
+      "Jean 3:3"
+    ]
+  },
+  {
+    "text": "Complétez : « Là où est ton trésor, là aussi sera ton cœur. »",
+    "correct": "Matthieu 6:21",
+    "incorrect": [
+      "Luc 12:34",
+      "Proverbes 4:23"
+    ]
+  },
+  {
+    "text": "Complétez : « Soyez toujours joyeux. »",
+    "correct": "1 Thessaloniciens 5:16",
+    "incorrect": [
+      "Philippiens 4:4",
+      "Galates 5:22"
+    ]
+  },
+  {
+    "text": "Complétez : « Soumettez-vous donc à Dieu… »",
+    "correct": "Jacques 4:7",
+    "incorrect": [
+      "Romains 10:3",
+      "1 Pierre 5:6"
+    ]
+  },
+  {
+    "text": "Complétez : « Heureux sont vos yeux… vos oreilles… »",
+    "correct": "Matthieu 13:16",
+    "incorrect": [
+      "Matthieu 13:17",
+      "Matthieu 12:16"
+    ]
+  },
+  {
+    "text": "Complétez : « Celui qui marche dans l’intégrité marche en sécurité. »",
+    "correct": "Proverbes 10:9",
+    "incorrect": [
+      "Proverbes 11:3",
+      "Psaume 15:2"
+    ]
+  },
+  {
+    "text": "Complétez : « L’amour ne fait pas de mal au prochain… »",
+    "correct": "Romains 13:10",
+    "incorrect": [
+      "Galates 5:14",
+      "1 Corinthiens 13:5"
+    ]
+  },
+  {
+    "text": "Complétez : « Soyez pleins de joie en espérance… »",
+    "correct": "Romains 12:12",
+    "incorrect": [
+      "Philippiens 4:4",
+      "1 Thessaloniciens 5:16"
+    ]
+  },
+  {
+    "text": "Complétez : « Il donne de la force à celui qui est fatigué… »",
+    "correct": "Ésaïe 40:29",
+    "incorrect": [
+      "Ésaïe 41:10",
+      "Psaume 29:11"
+    ]
+  },
+  {
+    "text": "Complétez : « Tout est possible à celui qui croit. »",
+    "correct": "Marc 9:23",
+    "incorrect": [
+      "Matthieu 17:20",
+      "Luc 1:37"
+    ]
+  },
+  {
+    "text": "Complétez : « Au commencement était la Parole… »",
+    "correct": "Jean 1:1",
+    "incorrect": [
+      "Jean 1:2",
+      "Jean 2:1"
+    ]
+  },
+  {
+    "text": "Complétez : « Le Seigneur est mon berger… »",
+    "correct": "Psaume 23:1",
+    "incorrect": [
+      "Psaume 121:1",
+      "Proverbes 3:5"
+    ]
+  },
+  {
+    "text": "Complétez : « Heureux ceux qui font œuvre de paix… »",
+    "correct": "Matthieu 5:9",
+    "incorrect": [
+      "Matthieu 5:4",
+      "Matthieu 5:3"
+    ]
+  },
+  {
+    "text": "Complétez : « Tu aimeras Jéhovah ton Dieu de tout ton cœur… »",
+    "correct": "Deutéronome 6:5",
+    "incorrect": [
+      "Matthieu 22:37",
+      "Marc 12:30"
+    ]
+  },
+  {
+    "text": "Complétez : « Tu ne tueras point. »",
+    "correct": "Exode 20:13",
+    "incorrect": [
+      "Exode 19:3",
+      "Exode 21:10"
+    ]
+  },
+  {
+    "text": "Complétez : « Vous êtes la lumière du monde. »",
+    "correct": "Jean 5:14",
+    "incorrect": [
+      "Jean 6:14",
+      "Jean 4:14"
+    ]
+  },
+  {
+    "text": "Complétez : « Celui qui marche avec les sages deviendra sage… »",
+    "correct": "Proverbes 13:20",
+    "incorrect": [
+      "Proverbes 3:13",
+      "Proverbes 4:7"
+    ]
+  },
+  {
+    "text": "Complétez : « Tu ne mangeras pas de l’arbre de la connaissance… »",
+    "correct": "Genèse 2:17",
+    "incorrect": [
+      "Genèse 3:3",
+      "Genèse 1:29"
+    ]
+  },
+  {
+    "text": "Complétez : « Ne jugez pas, afin que vous ne soyez pas jugés. »",
+    "correct": "Matthieu 7:1",
+    "incorrect": [
+      "Luc 6:37",
+      "Jean 7:24"
+    ]
+  },
+  {
+    "text": "Complétez : « Il n’y a donc maintenant aucune condamnation… »",
+    "correct": "Romains 8:1",
+    "incorrect": [
+      "Jean 3:18",
+      "Galates 3:13"
+    ]
+  },
+  {
+    "text": "Complétez : « Jéhovah est bon envers tous… »",
+    "correct": "Psaume 145:9",
+    "incorrect": [
+      "Psaume 34:8",
+      "Nahum 1:7"
+    ]
+  },
+  {
+    "text": "Complétez : « Celui qui aura persévéré jusqu’à la fin sera sauvé. »",
+    "correct": "Matthieu 24:13",
+    "incorrect": [
+      "Marc 13:13",
+      "Hébreux 10:36"
+    ]
+  },
+  {
+    "text": "Complétez : « Car Dieu n’est pas un Dieu de désordre, mais de paix. »",
+    "correct": "1 Corinthiens 14:33",
+    "incorrect": [
+      "Hébreux 12:14",
+      "Jacques 3:17"
+    ]
+  },
+  {
+    "text": "Complétez : « Heureux les miséricordieux… »",
+    "correct": "Matthieu 5:7",
+    "incorrect": [
+      "Luc 6:36",
+      "Jacques 2:13"
+    ]
+  },
+  {
+    "text": "Complétez : « Heureux ceux qui ont faim et soif de justice… »",
+    "correct": "Matthieu 5:6",
+    "incorrect": [
+      "Jean 3:16",
+      "Luc 6:20"
+    ]
+  },
+  {
+    "text": "Complétez : « Tout ce que vous voulez que les hommes fassent pour vous… »",
+    "correct": "Matthieu 7:12",
+    "incorrect": [
+      "Matthieu 5:44",
+      "Luc 6:31"
+    ]
+  },
+  {
+    "text": "Complétez : « Le commencement de la sagesse, c’est la crainte de Jéhovah. »",
+    "correct": "Proverbes 1:7",
+    "incorrect": [
+      "Proverbes 9:10",
+      "Ecclésiaste 12:13"
+    ]
+  },
+  {
+    "text": "Complétez : « Heureux ceux qui écoutent la parole de Dieu et la gardent. »",
+    "correct": "Luc 11:28",
+    "incorrect": [
+      "Jean 8:51",
+      "Matthieu 7:24"
+    ]
+  },
+  {
+    "text": "Complétez : « L’amour est patient, il est plein de bonté. »",
+    "correct": "1 Corinthiens 13:4",
+    "incorrect": [
+      "Galates 5:22",
+      "Romains 12:9"
+    ]
+  },
+  {
+    "text": "Complétez : « Jésus pleura. »",
+    "correct": "Jean 11:35",
+    "incorrect": [
+      "Luc 19:41",
+      "Hébreux 5:7"
+    ]
+  },
+  {
+    "text": "Complétez : « Heureux ceux qui sont doux de caractère… »",
+    "correct": "Matthieu 5:5",
+    "incorrect": [
+      "Matthieu 5:7",
+      "Matthieu 5:8"
+    ]
+  },
+  {
+    "text": "Complétez : « L’Éternel est mon aide, je ne craindrai rien. »",
+    "correct": "Hébreux 13:6",
+    "incorrect": [
+      "Psaume 118:6",
+      "Romains 8:31"
+    ]
+  },
+  {
+    "text": "Complétez : « Cherchez d’abord le royaume et la justice de Dieu… »",
+    "correct": "Matthieu 6:33",
+    "incorrect": [
+      "Luc 12:31",
+      "Marc 10:29"
+    ]
+  },
+  {
+    "text": "Complétez : « Mieux vaut être patient que puissant. »",
+    "correct": "Proverbes 16:32",
+    "incorrect": [
+      "Proverbes 14:29",
+      "Ecclésiaste 7:8"
+    ]
+  },
+  {
+    "text": "Complétez : « Le fruit de la justice est semé dans la paix. »",
+    "correct": "Jacques 3:18",
+    "incorrect": [
+      "Romains 14:17",
+      "Hébreux 12:11"
+    ]
+  },
+  {
+    "text": "Complétez : « Le Seigneur est proche de ceux qui ont le cœur brisé. »",
+    "correct": "Psaume 34:18",
+    "incorrect": [
+      "Psaume 147:3",
+      "Ésaïe 57:15"
+    ]
+  },
+  {
+    "text": "Complétez : « Priez sans cesse. »",
+    "correct": "1 Thessaloniciens 5:17",
+    "incorrect": [
+      "Éphésiens 6:18",
+      "Romains 12:12"
+    ]
+  },
+  {
+    "text": "Complétez : « Car nous sommes sauvés en espérance… »",
+    "correct": "Romains 8:24",
+    "incorrect": [
+      "Romains 5:2",
+      "Hébreux 11:1"
+    ]
+  },
+  {
+    "text": "Complétez : « Les bontés de Jéhovah ne sont pas épuisées… »",
+    "correct": "Lamentations 3:22",
+    "incorrect": [
+      "Psaume 103:17",
+      "Ésaïe 54:10"
+    ]
+  },
+  {
+    "text": "Complétez : « Celui qui demeure sous l’abri du Très-Haut… »",
+    "correct": "Psaume 91:1",
+    "incorrect": [
+      "Psaume 27:5",
+      "Psaume 121:5"
+    ]
+  },
+  {
+    "text": "Complétez : « Vous êtes la lumière du monde… »",
+    "correct": "Matthieu 5:14",
+    "incorrect": [
+      "Jean 8:12",
+      "Éphésiens 5:8"
+    ]
+  }
+]

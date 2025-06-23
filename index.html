@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>TJ QUIZ</title>
+  <link rel="manifest" href="manifest.json" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <img src="tjquiz_logo_TJ_above_quizz.png" alt="TJ QUIZ Logo" id="logo">
+  </header>
+  <main>
+    <h1>Trouve la référence biblique</h1>
+    <div id="quiz">
+      <div id="question">Chargement...</div>
+      <div id="answers"></div>
+      <div id="timer-score">
+        <span id="timer">15</span> s &nbsp; | &nbsp;
+        Score: <span id="score">0</span>
+      </div>
+      <div class="controls">
+        <button id="btn-rules">Règles</button>
+        <button id="btn-download">Télécharger l'application</button>
+      </div>
+    </div>
+    <div id="rules-modal" class="hidden">
+      <div id="rules-content">
+        <button id="close-rules">✕</button>
+        <img src="scoring_rules_icon.png" alt="Règles de score">
+      </div>
+    </div>
+  </main>
+  <footer>
+    <a id="share" href="#" target="_blank">Partager mon score</a>
+    <div class="credit">Créé par DREDJI</div>
+  </footer>
+  <script src="script.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) navigator.serviceWorker.register('service-worker.js');
+  </script>
+</body>
+</html>
